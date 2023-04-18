@@ -2,12 +2,12 @@
 Just a Edit of Samuel sd-dongle to work with Renewed Crypto Phone
 
 
-- Origial Creator: https://github.com/Github-Samuel
+- Original Creator: https://github.com/Github-Samuel
 
 - Renewd Phone: https://github.com/Renewed-Scripts/qb-phone
 
 
-- You can add more items and the type crypto you wanna use in the config 
+- You can add more items and the type of crypto you wanna use in the config 
 
 - Config.Shop = {
     [1] = {
