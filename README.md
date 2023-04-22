@@ -11,7 +11,7 @@ Just a Edit of Samuel sd-dongle to work with Renewed Crypto Phone
 
 - Add this to your qb-core/shared/items
 
-	['vpn']				  		  	= {['name'] = 'vpn',							['label'] = "VPN",						['weight'] = 500,		['type'] = 'item',		['image'] = 'vpn.png',						['unique'] = true,		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = "A fake plate?"},
+	['vpn']				  		  	= {['name'] = 'vpn',							['label'] = "VPN",						['weight'] = 500,		['type'] = 'item',		['image'] = 'vpn.png',						['unique'] = true,		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = "Incognito mode"},
 
 	["deliverylist"]				 = {["name"] = "deliverylist", 					["label"] = "Delivery List",			["weight"] = 5000, 		["type"] = "item", 		["image"] = "deliverylist.png", 		["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "A suspicious list with transport instructions. Marked for Police Seizure."},
 
