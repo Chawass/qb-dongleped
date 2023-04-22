@@ -21,5 +21,5 @@ Just a Edit of Samuel sd-dongle to work with Renewed Crypto Phone
 
 Should be a basic drag and drop file
 
-Prewview:
+Preview:
 https://www.youtube.com/watch?v=R4L3FJHR4lw&ab_channel=Xoda
