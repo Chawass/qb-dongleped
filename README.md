@@ -10,8 +10,14 @@ Just a Edit of Samuel sd-dongle to work with Renewed Crypto Phone
 - You can add more items and the type of crypto you wanna use in the config 
 
 - Add this to your qb-core/shared/items
-	
-    ['vpn']				  		  	= {['name'] = 'vpn',							['label'] = "VPN",						['weight'] = 500,		['type'] = 'item',		['image'] = 'vpn.png',						['unique'] = true,		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = "This is better then NordVPN?"},
+
+	['vpn']				  		  	= {['name'] = 'vpn',							['label'] = "VPN",						['weight'] = 500,		['type'] = 'item',		['image'] = 'vpn.png',						['unique'] = true,		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = "A fake plate?"},
+
+	["deliverylist"]				 = {["name"] = "deliverylist", 					["label"] = "Delivery List",			["weight"] = 5000, 		["type"] = "item", 		["image"] = "deliverylist.png", 		["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "A suspicious list with transport instructions. Marked for Police Seizure."},
+
+	['ausb2']                       = {['name'] = 'ausb2',                          ['label'] = 'Alias USB',                ['weight'] = 3000,      ['type'] = 'item',      ['image'] = 'phonedongle.png',      	['unique'] = true,      ['useable'] = true,     ['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = 'BE WHOEVER YOU WANT TO BE...'},
+
+
 
 
 - Config.Shop = {
