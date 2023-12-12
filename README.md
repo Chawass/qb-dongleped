@@ -20,15 +20,21 @@ Just a Edit of Samuel sd-dongle to work with Renewed Crypto Phone
 
 
 
-- Config.Shop = {
-    [1] = {
-        item = "deliverylist",-- Item
-        price = 100,-- Price of item
-        type = "shung", -- Crypto Type /gne/shung/xcoin/lme (or what ever you named tour crypto lol)
-        icon = "fa-solid fa-clipboard", -- Icons from https://fontawesome.com/
-    },
-- }
 
+ 
+        Config.Shop = {
+              [1] = {
+  
+                item = "deliverylist",-- Item 
+        
+                price = 100,-- Price of item   
+        
+                type = "shung", -- Crypto Type /gne/shung/xcoin/lme (or what ever you named your crypto lol)  
+        
+                icon = "fa-solid fa-clipboard", -- Icons from https://fontawesome.com/
+        
+              },
+   
 
 Should be a basic drag and drop file
 
